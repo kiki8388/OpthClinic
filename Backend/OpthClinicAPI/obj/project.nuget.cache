@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b6kR9icGxCx0DDczwjT8KNnDC/BdauoX9AfHx8E9luTdagjlnkZkxYfIOMBtgfSnaoaCPIDGA9NfoPrg/Vp5Qg==",
+  "dgSpecHash": "ledANN9Mh+z563KgwtUPXBqxGzK/yWqO3YT0IMZRWdHq5gOrvcRbERmqkOumxvFDp3vDzi/DkTq+7MJ0N8B57Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mikox\\source\\repos\\OpthClinic\\Backend\\OpthClinicAPI\\OpthClinicAPI.csproj",
+  "projectFilePath": "C:\\Users\\mikox\\source\\repos\\OpthClinic\\OpthClinic\\Backend\\OpthClinicAPI\\OpthClinicAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mikox\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\mikox\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
